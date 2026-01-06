@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 07 Jan 2026 00:00:00 +0000
+Source: 0wm-server
+Binary: 0wm-server 0wm-server-dbgsym
+Architecture: arm64
+Version: 0~git20260107-1
+Distribution: forky
+Urgency: low
+Maintainer: Benjamin Somers <benjamin.somers@resel.fr>
+Changed-By: Benjamin Somers <benjamin.somers@resel.fr>
+Description:
+ 0wm-server - 0WM Server Daemon
+Changes:
+ 0wm-server (0~git20260107-1) forky; urgency=low
+ .
+   2026-01-07 nightly build. Commits:
+ .
+   * db79c22: Add more .deb targets
+Checksums-Sha1:
+ 95f31be7c2e5e521f7f0b2439ff99e9e0ed9d2cd 5751892 0wm-server-dbgsym_0~git20260107-1_arm64.deb
+ 4754664cbb345dbc0aae7be22a51db316f9db779 6333 0wm-server_0~git20260107-1_arm64.buildinfo
+ 40edfed5766ed46cfe4e3c89ced86c0d96415b89 11083404 0wm-server_0~git20260107-1_arm64.deb
+Checksums-Sha256:
+ cb809afcbe1a5aba8ef75c0bf64cd67383907a21452a69f5f4a70576cab17210 5751892 0wm-server-dbgsym_0~git20260107-1_arm64.deb
+ 4dd2f8b26bdb6051a9652b27e874b4d90cfd91a86805cef17a5825185cf21a9b 6333 0wm-server_0~git20260107-1_arm64.buildinfo
+ 218ca0713657c150f20767fdbaeac1d22f9507eafb737f2b8ff0a81e2e9f07d5 11083404 0wm-server_0~git20260107-1_arm64.deb
+Files:
+ c4e83a08a1d3c9ad17d2acfaf1a0f49b 5751892 debug optional 0wm-server-dbgsym_0~git20260107-1_arm64.deb
+ 2d34ab4e22c0a83e3d74c0d85f3f6f30 6333 misc optional 0wm-server_0~git20260107-1_arm64.buildinfo
+ 4d8983e9477eef63de33a54d574335c9 11083404 misc optional 0wm-server_0~git20260107-1_arm64.deb
