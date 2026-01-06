@@ -1,0 +1,30 @@
+Format: 1.8
+Date: Wed, 07 Jan 2026 00:00:00 +0000
+Source: 0wm-server
+Binary: 0wm-server 0wm-server-dbgsym
+Architecture: arm64
+Version: 0~git20260107-1
+Distribution: trixie
+Urgency: low
+Maintainer: Benjamin Somers <benjamin.somers@resel.fr>
+Changed-By: Benjamin Somers <benjamin.somers@resel.fr>
+Description:
+ 0wm-server - 0WM Server Daemon
+Changes:
+ 0wm-server (0~git20260107-1) trixie; urgency=low
+ .
+   2026-01-07 nightly build. Commits:
+ .
+   * 0dc7e76: Add more .deb targets
+Checksums-Sha1:
+ a756118a18adb45af24ceb347c1b16157efdaecb 5798856 0wm-server-dbgsym_0~git20260107-1_arm64.deb
+ f1673394d7e49bc56c63a2d3f64620a6fd4eb9cd 6401 0wm-server_0~git20260107-1_arm64.buildinfo
+ 4ebf4ff8c3c163b63697789a82d0533955df0c3d 11077164 0wm-server_0~git20260107-1_arm64.deb
+Checksums-Sha256:
+ ea5fea8dd86e5d1acc52c3a4a8d0e3b0ce329b9a40a2ffdd190e2c0f159e1328 5798856 0wm-server-dbgsym_0~git20260107-1_arm64.deb
+ 85e6d7d43367eba4c9ac32c0a355ed59868fef822dae9d8a7950fd0b3ac68266 6401 0wm-server_0~git20260107-1_arm64.buildinfo
+ 8fa691d9ed2db2573bc32b31f8ef87758fe1edb9b800f150ee3534ea5b54e855 11077164 0wm-server_0~git20260107-1_arm64.deb
+Files:
+ 95d342f73f4b541ff819ad425d18193c 5798856 debug optional 0wm-server-dbgsym_0~git20260107-1_arm64.deb
+ e7f8c8a40c1acf85cdede94e9fd8d780 6401 misc optional 0wm-server_0~git20260107-1_arm64.buildinfo
+ 23993b449f71581765195748f92a967f 11077164 misc optional 0wm-server_0~git20260107-1_arm64.deb
