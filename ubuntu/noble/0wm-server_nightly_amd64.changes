@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 07 Jan 2026 00:00:00 +0000
+Source: 0wm-server
+Binary: 0wm-server
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 0~git20260107-1
+Distribution: noble
+Urgency: low
+Maintainer: Benjamin Somers <benjamin.somers@resel.fr>
+Changed-By: Benjamin Somers <benjamin.somers@resel.fr>
+Description:
+ 0wm-server - 0WM Server Daemon
+Changes:
+ 0wm-server (0~git20260107-1) noble; urgency=low
+ .
+   2026-01-07 nightly build. Commits:
+ .
+   * 0dc7e76: Add more .deb targets
+Checksums-Sha1:
+ 7f31ffb0433d2440c817f906a59ef0d481a782f3 7113140 0wm-server-dbgsym_0~git20260107-1_amd64.ddeb
+ e8d5f670fc9ddfa82048ab4e0a1906f7bbcef546 7941 0wm-server_0~git20260107-1_amd64.buildinfo
+ 4e3d8da1613da36a1b622dca010d33abd3bead74 11978032 0wm-server_0~git20260107-1_amd64.deb
+Checksums-Sha256:
+ 95a4fddf3ae2a53850ab5c98a422af0c2c23b45c58e3445a78dec208ded6ff75 7113140 0wm-server-dbgsym_0~git20260107-1_amd64.ddeb
+ 7558cdeac6ee00a936d3ea165762e854a43ce49cba51892c3e85b03de22b67d7 7941 0wm-server_0~git20260107-1_amd64.buildinfo
+ c125c98e3e60b025cd62b013799280c3190474315a044acb9294f6aa9a29c5f3 11978032 0wm-server_0~git20260107-1_amd64.deb
+Files:
+ 27829d63cfb5b19425c334e8034fe665 7113140 debug optional 0wm-server-dbgsym_0~git20260107-1_amd64.ddeb
+ c2bf29d72f3fffc0e52cfbb87fd109e1 7941 misc optional 0wm-server_0~git20260107-1_amd64.buildinfo
+ 89913c52ea934c3f351ac98c11baa32d 11978032 misc optional 0wm-server_0~git20260107-1_amd64.deb
