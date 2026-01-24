@@ -19,13 +19,13 @@ Changes:
    * 0dc7e76: Add more .deb targets
 Checksums-Sha1:
  1c281e5951cbdcbfc6f39fcfc50051057811614f 6412314 0wm-server-dbgsym_0~git20260107-1_amd64.ddeb
- ce510213657c95570a2c908113433b26a4464fc2 7508 0wm-server_0~git20260107-1_amd64.buildinfo
+ 7b61268b62caa9cfe9fd86d3cf659a1e28fa8f58 7508 0wm-server_0~git20260107-1_amd64.buildinfo
  bc81ee2b8c5e0930ee316ae1b56a37f77c67dbdc 12080194 0wm-server_0~git20260107-1_amd64.deb
 Checksums-Sha256:
  58a41d480e78207edee9a8d8ed478236e52e1f128c0ea0d368227384b1ac9893 6412314 0wm-server-dbgsym_0~git20260107-1_amd64.ddeb
- 7e07501d3b233760f815dd9bcc7689c4ea0ce421924472f78271d7c7ba4430a3 7508 0wm-server_0~git20260107-1_amd64.buildinfo
+ 48033b24eded02d9d439714723838290f6b9e98d02b9b448397d504db50279ee 7508 0wm-server_0~git20260107-1_amd64.buildinfo
  505f9f3071b7bb0da0d8ff4a453600a48b09f5da9f18bd9c4b8f4f617ba9d2fc 12080194 0wm-server_0~git20260107-1_amd64.deb
 Files:
  05b0e63370b25ef6541ac520109634f3 6412314 debug optional 0wm-server-dbgsym_0~git20260107-1_amd64.ddeb
- c230c5ad4cc6b6d75cbbf240239f06e7 7508 misc optional 0wm-server_0~git20260107-1_amd64.buildinfo
+ 7196d597e0e94027cc5d779c36a523f8 7508 misc optional 0wm-server_0~git20260107-1_amd64.buildinfo
  5c099ba363489e9f7ebf63bef8b1331b 12080194 misc optional 0wm-server_0~git20260107-1_amd64.deb
