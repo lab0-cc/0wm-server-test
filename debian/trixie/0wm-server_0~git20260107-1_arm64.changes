@@ -18,13 +18,13 @@ Changes:
    * 0dc7e76: Add more .deb targets
 Checksums-Sha1:
  76e0e08d5ef6e8b58e7f1a2d313236429de0ece2 5799256 0wm-server-dbgsym_0~git20260107-1_arm64.deb
- dc7f5675f37071c16473efbd10c15ff090e7d14a 6441 0wm-server_0~git20260107-1_arm64.buildinfo
+ 993592ece8b87be0c26cf466cf818f5070128385 6441 0wm-server_0~git20260107-1_arm64.buildinfo
  466e0349800ceea7249781e57cca7bedb43f7b88 11075736 0wm-server_0~git20260107-1_arm64.deb
 Checksums-Sha256:
  fed4831c1d5e498dd238a0cbc0f1c8046c70c61b41803195cb57e7bbac83358a 5799256 0wm-server-dbgsym_0~git20260107-1_arm64.deb
- d65513048bac97c3b456c6763240828b26519ba8e4f56fe0b1715ea872818cb7 6441 0wm-server_0~git20260107-1_arm64.buildinfo
+ 803a58dc80d50ed9d450bb648078fdd1830b26c2d1b2dc8c0f5276add6317f5e 6441 0wm-server_0~git20260107-1_arm64.buildinfo
  7de7e2789feb164af88f84fff16869679be8cf9ab0a6f0b9488c6fd89ee85135 11075736 0wm-server_0~git20260107-1_arm64.deb
 Files:
  a21b44a1429f7525e10da303dca1ce22 5799256 debug optional 0wm-server-dbgsym_0~git20260107-1_arm64.deb
- 40c4a25de0cb672cafc1f89a027e4869 6441 misc optional 0wm-server_0~git20260107-1_arm64.buildinfo
+ 74efcfec6fb654ab46060cb84565d191 6441 misc optional 0wm-server_0~git20260107-1_arm64.buildinfo
  1eabc46ee924c67d527b65a8ebbd832a 11075736 misc optional 0wm-server_0~git20260107-1_arm64.deb
