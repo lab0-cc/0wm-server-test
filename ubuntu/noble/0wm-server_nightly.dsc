@@ -10,11 +10,11 @@ Build-Depends: debhelper-compat (= 13), ca-certificates, git, opam, pkgconf, lib
 Package-List:
  0wm-server deb misc optional arch=any
 Checksums-Sha1:
- 25ea171e07fbf6c0b39aa27874db8a762e47d118 570772 0wm-server_0~git20260107.orig.tar.gz
+ 31a6f97862df6a7d3b9309a1c3e4a53b96a2ec95 570776 0wm-server_0~git20260107.orig.tar.gz
  37ba10b7d4dbeb28df55fa2390999d19b4807a6d 3344 0wm-server_0~git20260107-1.debian.tar.xz
 Checksums-Sha256:
- 6ceb2e56d1d6510a597409262660490150d4da1006173d46f48d3bd8a9dca5db 570772 0wm-server_0~git20260107.orig.tar.gz
+ d65e78433c0600add1f72cdfdc58fd906e0b1f66d1c303052094f0970b8ab3ee 570776 0wm-server_0~git20260107.orig.tar.gz
  ce688a0954720225b04c1bf82aecd3cfa7a393df6fe615b0be848adf7c99880b 3344 0wm-server_0~git20260107-1.debian.tar.xz
 Files:
- bc826f36ef025fd2910716571f1917a1 570772 0wm-server_0~git20260107.orig.tar.gz
+ f5c087e4f2ac419c12620157084e329e 570776 0wm-server_0~git20260107.orig.tar.gz
  a19102179edb74e3aff9f5fa7f79a33d 3344 0wm-server_0~git20260107-1.debian.tar.xz
